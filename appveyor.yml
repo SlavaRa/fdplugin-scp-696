@@ -6,8 +6,8 @@ environment:
   PLUGIN_DESC: 
   PLUGIN_PATH: C:\projects\FlashDevelop\External\Plugins\SCP696_1
   PLUGIN_DLL: C:\projects\FlashDevelop\FlashDevelop\Bin\Release\Plugins\SCP696_1.dll
-  PLUGIN_INFO: https:\/\/github.com\/SlavaRa\/fdplugin-scp-696-1
-  PLUGIN_GITHUB_RELEASES: https:\/\/github.com\/SlavaRa\/fdplugin-scp-696-1\/releases
+  PLUGIN_INFO: https:\/\/github.com\/SlavaRa\/fdplugin-scp-696-2
+  PLUGIN_GITHUB_RELEASES: https:\/\/github.com\/SlavaRa\/fdplugin-scp-696-2\/releases
   APPMAN_TEMPLATE: C:\projects\FlashDevelop\External\Plugins\SCP696_1\appman.template
   APPMAN_CONFIG_XML: appman.txt
 install:
